@@ -7,7 +7,8 @@ body * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-main {
+.main {
+    background-color: blueviolet;
 
 }
 
@@ -17,9 +18,16 @@ main {
     float: left;
     
 }
+.header {
+    background-color: chartreuse;
+}
 
 .main-title {
+background-color: burlywood;
+}
 
+.welcome {
+    background-color: darkgreen;
 }
 
 .right-column {
@@ -31,6 +39,5 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
 }
 

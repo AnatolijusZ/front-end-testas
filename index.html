@@ -7,16 +7,41 @@
     <title>Fcuksense</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/form.css">
+    <link rel="stylesheet" href="css/button.css">
 </head>
 
 <body>
-    <div class="left-column">
-        <h1 class="main-title">Artificial intelligence driving results for the travel industry</h1>
-        <p class="welcome">Welcome back, please login to your account</p>
-    </div>
+    <main>
+        <div class="left-column">
+            <h1 class="header">Fcuksense</h1>
+            <h2 class="main-title">Artificial intelligence driving results for the travel industry</h2>
+            <p class="welcome">Welcome back, please login to your account</p>
+                <form class="form">
+                    <div class="form-row">
+                        <label for="email">Email Adress</label>
+                        <input id="email" placeholder="Enter your email here" type="email" required>
+                    </div>
+                    <div class="form-row">
+                        <label for="password">Password</label>
+                        <input id="password" placeholder="Enter your password" type="text" required>
+                    </div>
+                    <div class="form-row">
+                        <label for="checkbox"></label>
+                        <input id="checkbox" type="checkbox">
+                    </div>
+                    <div class="form-row">
+                        <a href="#">Forgot password?</a>
+                    </div>
+                    <div class="button">
+                        <button class="login" type="submit">Login</button>
+                        <button class="sign-up" type="submit">Sign up</button>
+                    </div>
+                </form>
+        </div>
 
-    <div class="right-column">
-        
-    </div>
+        <div class="right-column">
+
+        </div>
+    </main>
 </body>
 </html>

@@ -1,0 +1,12 @@
+.button {
+background-color: deepskyblue;
+}
+.button .login {
+background: blue;
+color: white;
+}
+
+.button .sign-up {
+background: white;
+color: blue;
+}
