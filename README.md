@@ -7,7 +7,6 @@
 
 _BIT29 test project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
 Site published at (https://anatolijusz.github.io/front-end-testas/)
 
