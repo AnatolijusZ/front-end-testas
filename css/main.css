@@ -26,18 +26,21 @@ main {
     color: #3751FF;
     margin-top: 100px;
     margin-left: 70px;
+    font-size: 26px;
 }
 
 .main-title {
     color: #203152;
     margin-top: 100px;
     margin-left: 70px;
+    font-size: 30px;
 }
 
 .welcome {
     margin-top: 30px;
     margin-left: 70px;
     color: #A0A2B1;
+    font-size: 15px;
 }
 
 .right-column {
