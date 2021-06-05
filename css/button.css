@@ -1,11 +1,11 @@
 .button {
-    line-height: 30px;
-    font-size: 20px;
+
 }
 .button .login {
     padding: 15px;
     padding-left: 40px;
     padding-right: 40px;
+    font-size: 15px;
     background: #3751FF;
     color: white;
     border: #3751FF solid 1px;
@@ -13,12 +13,28 @@
 }
 
 .button .sign-up {
-    margin-left: 20px;
     padding: 15px;
     padding-left: 40px;
     padding-right: 40px;
-    background: white;
-    color: #3751FF;
+    font-size: 15px;
+    background: #3751FF;
+    color: white;
     border: #3751FF solid 1px;
     border-radius: 4px;
+}
+
+.button > a {
+    display: inline-block;
+    line-height: 37px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: white;
+    color: #3751FF;
+    text-transform: capitalize;
+    border: #3751FF solid 1px;
+    border-radius: 4px;
+    font-size: 15px;
+    text-decoration: none;
 }

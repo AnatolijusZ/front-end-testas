@@ -13,12 +13,6 @@ Site published at (https://anatolijusz.github.io/front-end-testas/)
 
 Design: [Fcuksense](https://cdn.discordapp.com/attachments/850245533838868480/850246623883034644/login_screen.png)
 
-## Project features
-
-- Github pages
-- multi-page
-- desktop only
-- forms
 
 ## Authors
 
