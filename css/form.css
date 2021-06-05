@@ -26,6 +26,11 @@
     border-top: none;
     color: #3852FF;
   }
+
+  .form-row > input:focus {
+    border-left: solid #3852FF;
+  }
+
   .checkbox {
     float: left;
     padding-top: 10px;

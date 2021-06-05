@@ -16,24 +16,28 @@ main {
 
 .left-column {
     background-color: white;
+    height: 100vh;
     width: 35%;
     float: left;
     margin-left: 5%;
     
 }
 .header {
+    color: #3751FF;
     margin-top: 100px;
     margin-left: 70px;
 }
 
 .main-title {
-margin-top: 100px;
-margin-left: 70px;
+    color: #203152;
+    margin-top: 100px;
+    margin-left: 70px;
 }
 
 .welcome {
     margin-top: 30px;
     margin-left: 70px;
+    color: #A0A2B1;
 }
 
 .right-column {

@@ -1,12 +1,24 @@
 .button {
-background-color: deepskyblue;
+    line-height: 30px;
+    font-size: 20px;
 }
 .button .login {
-background: blue;
-color: white;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: #3751FF;
+    color: white;
+    border: #3751FF solid 1px;
+    border-radius: 4px;
 }
 
 .button .sign-up {
-background: white;
-color: blue;
+    margin-left: 20px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: white;
+    color: #3751FF;
+    border: #3751FF solid 1px;
+    border-radius: 4px;
 }
