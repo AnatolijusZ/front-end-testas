@@ -7,32 +7,39 @@ body * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.main {
-    background-color: blueviolet;
+body {
+    background: black;
+}
 
+main {
 }
 
 .left-column {
-    background-color: yellow;
-    width: 40%;
+    background-color: white;
+    width: 35%;
     float: left;
+    margin-left: 5%;
     
 }
 .header {
-    background-color: chartreuse;
+    margin-top: 100px;
+    margin-left: 70px;
 }
 
 .main-title {
-background-color: burlywood;
+margin-top: 100px;
+margin-left: 70px;
 }
 
 .welcome {
-    background-color: darkgreen;
+    margin-top: 30px;
+    margin-left: 70px;
 }
 
 .right-column {
     
-    width: 60%;
+    width: 55%;
+    margin-right: 5%;
     float: left;
     height: 100vh;
     background-image: url(../img/html\ test\ right\ column.png);
